@@ -1,0 +1,22 @@
+Kate wants to develop a computer game for an exhibition in his school. He wants a
+program:
+which should ask user's choice either to play the game or not.
+------
+09-10-2023
+Play game? (Y/N)|
+
+There should prompt user to enter a letter upon the choice to play the game.
+Letter Game
+Play game? (Y/N) Y
+Enter guessing letter: |
+Which could allow user to enter either simple or capital letters repeatedly until user
+enters something except a letter.
+Letter Game
+Play game? (Y/N) Y
+Enter guessing letter: d
+Enter guessing letter: g
+Enter guessing letter: j
+Enter guessing letter: S
+Enter guessing letter: f
+Enter guessing letter: G
+Enter guessing letter:
